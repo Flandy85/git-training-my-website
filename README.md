@@ -9,7 +9,7 @@ this is just a readme file
 
 ## Purpose
 
-the purpose of this file is to provide examples
+The purpose of this file is to provide examples
 
 on how to use Git anf Github together
 
